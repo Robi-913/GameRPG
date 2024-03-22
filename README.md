@@ -13,8 +13,5 @@ Acest RPG se concentrează pe explorare, interacțiune cu obiecte și evitarea o
 2. **Clonează repository-ul:** `git clone URL_REPOSITORY`
 3. **Rulați Jocul:** Deschideți proiectul în IDE-ul preferat și rulați `Main.java`.
 
-## Contribuții
-Contribuțiile sunt binevenite! Dacă aveți sugestii de îmbunătățire sau ați găsit un bug, nu ezitați să deschideți un issue sau să trimiteți un pull request.
-
 ## Autori
 - Ardelean Robert
